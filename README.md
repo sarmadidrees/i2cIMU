@@ -3,7 +3,8 @@
 i2c_imu with ros and backup of rosbag
 
 
-IMU Node
+Follow the following instruction for IMU node
+
 sudo apt-get install ros-kinetic-imu-tools
 
 cd ~/catkin_ws/src/
