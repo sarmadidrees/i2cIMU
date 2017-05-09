@@ -1,5 +1,3 @@
-# i2cIMU
-
 
 # Follow the following instruction for IMU node
 
