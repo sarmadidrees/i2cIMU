@@ -1,7 +1,7 @@
 # i2cIMU
 
 
-Follow the following instruction for IMU node
+# Follow the following instruction for IMU node
 
 sudo apt-get install ros-kinetic-imu-tools
 
