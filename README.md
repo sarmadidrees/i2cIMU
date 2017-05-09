@@ -1,7 +1,5 @@
 # i2cIMU
 
-i2c_imu with ros and backup of rosbag
-
 
 Follow the following instruction for IMU node
 
