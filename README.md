@@ -27,5 +27,4 @@ sudo ldconfig
 
 roslaunch i2c_imu i2c_imu_auto.launch
 
-
 https://github.com/RTIMULib/RTIMULib2/blob/master/Linux/README.md
